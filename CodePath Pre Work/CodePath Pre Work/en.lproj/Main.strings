@@ -1,0 +1,15 @@
+
+/* Class = "UIButton"; configuration.title = "Change Color"; ObjectID = "G14-0z-LlB"; */
+"G14-0z-LlB.configuration.title" = "Change Color";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "G14-0z-LlB"; */
+"G14-0z-LlB.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "Product Manager Intern"; ObjectID = "IGP-jk-tkg"; */
+"IGP-jk-tkg.text" = "Product Manager Intern";
+
+/* Class = "UILabel"; text = "Pomona College"; ObjectID = "M6R-lG-eeV"; */
+"M6R-lG-eeV.text" = "Pomona College";
+
+/* Class = "UILabel"; text = "Meelod Waheed"; ObjectID = "qqV-5b-Pxd"; */
+"qqV-5b-Pxd.text" = "Meelod Waheed";
